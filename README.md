@@ -1,3 +1,5 @@
+![Background Image](https://images.saymedia-content.com/.image/t_share/MTc1MTEyOTczMTQ3MzgzNjIw/ryan-gosling-drive-movie-review.jpg)
+
 # 👺 Bienvenue sur mon GitHub !
 
 ## 📚 À propos de moi  
