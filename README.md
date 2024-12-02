@@ -53,3 +53,5 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ✏️ **Clonez mes projets** : `git clone https://github.com/PepitoBailao/lenomduprojet`  
 N'hésitez pas à ouvrir une **issue** ou soumettre une **pull request** !
+
+![Background Image](https://images.saymedia-content.com/.image/t_share/MTc1MTEyOTczMTQ3MzgzNjIw/ryan-gosling-drive-movie-review.jpg)
