@@ -1,4 +1,4 @@
-![Background Image](https://external-content.duckduckgo.com/iu/u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.PVBXCodroc1JvQhLBHNbfwHaEK%26pid%3DApi&f=1&ipt=47ef2b29f9f845e70ee1dc6922a906a55f77fef7bdbb7c2739a3c326beb61a01&ipo=images)
+![Background Image](https://wallpaperaccess.com/full/2103591.jpg)
 
 # 👺 Bienvenue sur mon GitHub !
 
@@ -54,4 +54,4 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ✏️ **Clonez mes projets** : `git clone https://github.com/PepitoBailao/lenomduprojet`  
 N'hésitez pas à ouvrir une **issue** ou soumettre une **pull request** !
 
-![Background Image](https://images.saymedia-content.com/.image/t_share/MTc1MTEyOTczMTQ3MzgzNjIw/ryan-gosling-drive-movie-review.jpg)
+![Background Image](https://wallpapercave.com/wp/Z80rFYN.jpg)
