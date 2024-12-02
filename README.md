@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon GitHub !
+# Bienvenue sur mon GitHub !
 
 ## 📚 À propos de moi  
 Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
@@ -33,9 +33,9 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ---
 
 ## 📊 Statistiques GitHub  
-![Ulysse's GitHub stats](https://github-readme-stats.vercel.app/api?username=ton-username&show_icons=true&theme=radical)
+![Ulysse's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepitobailao&show_icons=true&theme=radical)
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=ton-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=pepitobailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
