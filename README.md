@@ -28,7 +28,7 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ### 📀 **Better-Deezer (en cours de développement)**
 - **Technos** : JavaScript (Tampermonkey)
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
-- [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/readme)
+- [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
 
 ---
 
