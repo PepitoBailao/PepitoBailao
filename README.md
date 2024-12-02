@@ -23,12 +23,12 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ### 📱 **MessagerieDuSeigneurDeLaTerreDeLouest (en cours de développement)**
 - **Technos** : Java (Android Studio), MariaDB
 - **Fonctionnalités** : Authentification, diffusion de messages, likes, fil d'actualité
-- [📂 Code source](https://github.com/ton-repo/messagerie-seigneur) | [📘 Documentation](https://github.com/ton-repo/messagerie-seigneur/wiki)
+- [📂 Code source](https://github.com/pepitobailao/messagerie-seigneur) | [📘 Documentation](https://github.com/pepitobailao/messagerie-seigneur/wiki)
 
 ### 📀 **Better-Deezer (en cours de développement)**
 - **Technos** : JavaScript (Tampermonkey)
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
-- [📂 Code source](https://github.com/ton-repo/better-deezer) | [📘 Documentation (https://github.com/ton-repo/better-deezer/readme)]
+- [📂 Code source](https://github.com/pepitobailao/better-deezer) | [📘 Documentation](https://github.com/pepitobailao/better-deezer/readme)
 
 ---
 
