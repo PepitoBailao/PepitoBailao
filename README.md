@@ -23,19 +23,19 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ### 📱 **MessagerieDuSeigneurDeLaTerreDeLouest (en cours de développement)**
 - **Technos** : Java (Android Studio), MariaDB
 - **Fonctionnalités** : Authentification, diffusion de messages, likes, fil d'actualité
-- [📂 Code source](https://github.com/pepitobailao/messagerie-seigneur) | [📘 Documentation](https://github.com/pepitobailao/messagerie-seigneur/wiki)
+- [📂 Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [📘 Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki)
 
 ### 📀 **Better-Deezer (en cours de développement)**
 - **Technos** : JavaScript (Tampermonkey)
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
-- [📂 Code source](https://github.com/pepitobailao/better-deezer) | [📘 Documentation](https://github.com/pepitobailao/better-deezer/readme)
+- [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/readme)
 
 ---
 
 ## 📊 Statistiques GitHub  
-![Ulysse's GitHub stats](https://github-readme-stats.vercel.app/api?username=pepitobailao&show_icons=true&theme=radical)
+![Ulysse's GitHub stats](https://github-readme-stats.vercel.app/api?username=PepitoBailao&show_icons=true&theme=radical)
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=pepitobailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
