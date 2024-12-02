@@ -21,12 +21,12 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ## 🔨  Projets récents
 ### 📱 **MessagerieDuSeigneurDeLaTerreDeLouest (en cours de développement)**
-- **Technos** : Java (Android Studio), MariaDB
+- **Langages et outils** : Java (Android Studio), MariaDB
 - **Fonctionnalités** : Authentification, diffusion de messages, likes, fil d'actualité
 - [📂 Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [📘 Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki)
 
 ### 📀 **Better-Deezer (en cours de développement)**
-- **Technos** : JavaScript (Tampermonkey)
+- **Langages et outils** : JavaScript (Tampermonkey)
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
 - [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
 
@@ -40,8 +40,8 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 ---
 
 ## 💡 Contactez-moi
-📧 **Email** : [ulysse.richard@proton.me](mailto:ulysse.richard@proton.me)  
-🔗 **LinkedIn** : [Mon profil LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
+📧 **Email** : [mail](mailto:ulysse.richard@proton.me)  
+🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
 🐦 **Twitter** : [Bientot](https://twitter.com/)  
 🌐 **Portfolio** : [Portfolio]([https://github](https://pepitobailao.github.io/portfolio/)) *(en construction)*
 
@@ -49,5 +49,5 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 > *"Speedrun Code c'est la clé !"*
 
-✏️ **Clonez mes projets** : `git clone https://github.com/ton-username/nom-du-projet`  
+✏️ **Clonez mes projets** : `git clone https://github.com/PepitoBailao/lenomduprojet`  
 N'hésitez pas à ouvrir une **issue** ou soumettre une **pull request** !
