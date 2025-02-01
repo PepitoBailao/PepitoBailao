@@ -7,7 +7,7 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ---
 
-## 🤓 Compétences
+## 🤓👆 Compétences
 ### Développement
 - **Langages** : "Java", Python, "JavaScript", SQL
 - **Outils** : Android Studio, Tampermonkey, Visual Studio Code
