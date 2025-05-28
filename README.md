@@ -1,5 +1,3 @@
-![Background Gif](https://tenor.com/fr/view/drive-ryan-gosling-drive-title-sequence-drive-opening-gosling-gif-1712547453029357827)
-
 # 👺 Bienvenue sur mon GitHub !
 
 ## 📚 À propos de moi  
@@ -14,7 +12,7 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 - **Bases de données** : MariaDB, MySQL, Firebase
 - **Connaissances avancées** : Machine virtuelle, et les début de la sécurisation et recherche de faille (pentest)
 
-###📡 Réseaux
+## 📡 Réseaux
 - Configuration de serveurs Linux (Debian)
 - Mise en place d’infrastructures réseau
 - Bases de cybersécurité
@@ -41,17 +39,9 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ---
 
-## 💡 Contactez-moi
-📧 **Email** : [mail](mailto:ulysse.richard@proton.me)  
+## 💡 Contactez-moi 
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
 🐦 **Twitter** : [Bientot](https://twitter.com/)  
 🌐 **Portfolio** : [Portfolio]([https://github](https://pepitobailao.github.io/portfolio/)) *(en construction)*
 
 ---
-
-> *"Speedrun Code c'est la clé !"*
-
-✏️ **Clonez mes projets** : `git clone https://github.com/PepitoBailao/lenomduprojet`  
-N'hésitez pas à ouvrir une **issue** ou soumettre une **pull request** !
-
-![Background Image](https://wallpapercave.com/wp/Z80rFYN.jpg)
