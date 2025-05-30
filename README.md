@@ -1,6 +1,6 @@
-# 👺 Bienvenue sur mon GitHub !
+# Bienvenue sur mon GitHub !
 
-## 📚 À propos de moi  
+## À propos de moi  
 Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ---
@@ -12,28 +12,28 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 - **Bases de données** : MariaDB, MySQL, Firebase
 - **Connaissances avancées** : Machine virtuelle, et les début de la sécurisation et recherche de faille (pentest)
 
-## 📡 Réseaux
+## Réseaux
 - Configuration de serveurs Linux (Debian)
 - Mise en place d’infrastructures réseau
 - Bases de cybersécurité
 
 ---
 
-## 🔨  Projets récents
-### 📱 **MessagerieDuSeigneurDeLaTerreDeLouest (en cours de développement)**
+## Projets récents
+### **MessagerieDuSeigneurDeLaTerreDeLouest (en cours de développement)**
 - **Langages et outils** : Java (Android Studio), MariaDB
 - **Fonctionnalités** : Authentification, diffusion de messages, likes, fil d'actualité
-- [📂 Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [📘 Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki)
+- [Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki)
 
-### 📀 **Better-Deezer (en cours de développement)**
+### **Better-Deezer (en cours de développement)**
 - **Langages et outils** : JavaScript (Tampermonkey)
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
-- [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
+- [Code source](https://github.com/PepitoBailao/better-deezer) | [Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
 
-### 📱 **SuperDetector20000 (en cours de développement)**
+### **SuperDetector20000 (en cours de développement)**
 - **Langages et outils** : Python
 - **Fonctionnalités** : Récupération de dataset, trie de dataset, filtrage des informations, entrainement de modèle IA, test du modèle, utilsation du modèle IA sur du code C et C++.
-- [Statistiques]([https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest](https://pepitobailao.github.io/SuperDetector20000/)) | [📘 Documentation](a venir)
+- [Statistiques]([https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest](https://pepitobailao.github.io/SuperDetector20000/)) | [Documentation](a venir)
 
 ---
 
