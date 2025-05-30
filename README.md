@@ -30,6 +30,11 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 - **Objectif** : Amélioration de l'interface web de Deezer en supprimant les playlists inutiles et pas que...
 - [📂 Code source](https://github.com/PepitoBailao/better-deezer) | [📘 Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
 
+### 📱 **SuperDetector20000 (en cours de développement)**
+- **Langages et outils** : Python
+- **Fonctionnalités** : Récupération de dataset, trie de dataset, filtrage des informations, entrainement de modèle IA, test du modèle, utilsation du modèle IA sur du code C et C++.
+- [Statistiques]([https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest](https://pepitobailao.github.io/SuperDetector20000/)) | [📘 Documentation](a venir)
+
 ---
 
 ## 📊 Statistiques GitHub  
