@@ -24,13 +24,11 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 - **Langages et outils** : Java (Android Studio), Firebase
 - **Fonctionnalités** : Authentification, publication de messages, système de likes, fil d’actualité  
 - [Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki)
----
 
 ### Better-Deezer (en cours de développement)
 - **Langages et outils** : JavaScript (Tampermonkey)  
 - **Objectif** : Améliorer l’interface web de Deezer en supprimant les sections et playlists inutiles, et en personnalisant l’expérience utilisateur  
 - [Code source](https://github.com/PepitoBailao/better-deezer) | [Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md)
----
 
 ### SuperDetector20000 (en cours de développement – projet SoSAct)
 - **Langages et outils** : Python  
@@ -40,8 +38,6 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
   - Génération de statistiques et interface web de visualisation  
 - [Statistiques](https://github.com/PepitoBailao/SuperDetector20000) | Documentation à venir
 
----
-
 ### Win10-AntiBloatware (script terminé)
 - **Langages et outils** : PowerShell  
 - **Objectif** : Supprimer les applications préinstallées inutiles de Windows 10 (bloatwares) et désinstaller automatiquement McAfee  
@@ -50,7 +46,6 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
   - Détection et désinstallation de McAfee  
   - Exécution automatique avec élévation des droits si nécessaire  
 - [Code source](https://github.com/PepitoBailao/BloatwareDeConWin) | [Documentation](https://github.com/PepitoBailao/BloatwareDeConWin/blob/main/README.md)
----
 
 ## 📊 Statistiques GitHub  
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -59,6 +54,6 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ## 💡 Contactez-moi 
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
-🌐 **Portfolio** : [Portfolio]([https://github](https://pepitobailao.github.io/portfolio/)
+🌐 **Portfolio** : [Portfolio](https://pepitobailao.github.io/portfolio/#)
 
 ---
