@@ -59,6 +59,6 @@ Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
 
 ## 💡 Contactez-moi 
 🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
-🌐 **Portfolio** : [Portfolio]([https://github](https://pepitobailao.github.io/portfolio/))
+🌐 **Portfolio** : [Portfolio]([https://github](https://pepitobailao.github.io/portfolio/)
 
 ---
