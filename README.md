@@ -40,7 +40,6 @@ Un script PowerShell pour dégager tous les trucs inutiles de Windows 10/11 (adi
 
 ## 🍔 Stats GitHub  
 [![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=PepitoBailao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Trophées](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
