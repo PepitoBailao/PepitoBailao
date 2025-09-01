@@ -1,59 +1,102 @@
-# Bienvenue sur mon GitHub !
+# 👋 Salut, moi c'est PepitoBailao
 
 ## À propos de moi  
-Flemme, je suis juste étudiant en BUT RT ! La classe hein ? bof...
+Flemme, je suis un énorme chômeur !  
+Parfois je code, parfois je casse, parfois je dors (souvent). Mes scripts marchent... quand ils veulent.  
 
 ---
 
-## 🤓👆 Compétences
-### Développement
-- **Langages** : "Java", Python, "JavaScript", SQL
-- **Outils** : Android Studio, Tampermonkey, Visual Studio Code
-- **Bases de données** : MariaDB, MySQL, Firebase
-- **Connaissances avancées** : Machine virtuelle, et les début de la sécurisation et recherche de faille (pentest)
-
-## Réseaux
-- Configuration de serveurs Linux (Debian)
-- Mise en place d’infrastructures réseau
-- Bases de cybersécurité
-
----
-## Projets récents
-
-### MessagerieDuSeigneurDeLaTerreDeLouest
-- **Langages et outils** : Java (Android Studio), Firebase
-- **Fonctionnalités** : Authentification, publication de messages, système de likes, fil d’actualité  
-- [Code source](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [Documentation](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/wiki) | [Release](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/releases/tag/apkV1)
-
-### Better-Deezer (en cours de développement)
-- **Langages et outils** : JavaScript (Tampermonkey)  
-- **Objectif** : Améliorer l’interface web de Deezer en supprimant les sections et playlists inutiles, et en personnalisant l’expérience utilisateur  
-- [Code source](https://github.com/PepitoBailao/better-deezer) | [Documentation](https://github.com/PepitoBailao/better-deezer/blob/main/README.md) | [Release](Bientôt)
-
-### SuperDetector20000 (en cours de développement – projet SoSAct)
-- **Langages et outils** : Python  
-- **Fonctionnalités** :  
-  - Récupération et traitement d’un dataset de vulnérabilités logicielles (CWE/CVE)  
-  - Entraînement d’un modèle d’IA pour détecter automatiquement les vulnérabilités dans du code C/C++  
-  - Génération de statistiques et interface web de visualisation  
-- [Statistiques](https://github.com/PepitoBailao/SuperDetector20000) | [Statistiques](https://pepitobailao.github.io/SuperDetector20000/) | [Release](Bientôt)
-
-### Win10-AntiBloatware (script terminé)
-- **Langages et outils** : PowerShell  
-- **Objectif** : Supprimer les applications préinstallées inutiles de Windows 10 (bloatwares) et désinstaller automatiquement McAfee  
-- **Fonctionnalités** :  
-  - Suppression silencieuse des applications UWP superflues  
-  - Détection et désinstallation de McAfee  
-  - Exécution automatique avec élévation des droits si nécessaire  
-- [Code source](https://github.com/PepitoBailao/BloatwareDeConWin) | [Documentation](https://github.com/PepitoBailao/BloatwareDeConWin/blob/main/README.md) | [Release](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
-
-## 📊 Statistiques GitHub  
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+## 🥕 Compétences
+- Python, Java, JavaScript, SQL, PowerShell, Linux (sauf quand j'ai la flemme)
+- J'installe des trucs et ça plante ou ça marche par magie, c'est la surprise
+- Sécurité : je "sécurise" en cassant tout (white hat, promis)
+- J'ai le don de trouver les bugs cachés... mais surtout d'en créer un max
 
 ---
 
-## 💡 Contactez-moi 
-🔗 **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/ulysse-richard/)  
-🌐 **Portfolio** : [Portfolio](https://pepitobailao.github.io/portfolio/#)
+## 🦆 Projets Récents
+
+### 💎 CraftMine 
+Bot Discord pour serveur Minecraft. Il surveille les gens qui squattent et prévient si y'a du monde.  
+[Code](https://github.com/PepitoBailao/CraftMine)
+
+### 📱 MessagerieDuSeigneurDeLaTerreDeLouest
+App Android de messagerie avec Firebase. Nom bizarre, mais ça marche nickel.  
+[Code](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [APK](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/releases/tag/apkV1)
+
+### 🧲 Better-Deezer
+Un script pour rendre Deezer moins chiant.  
+[Code](https://github.com/PepitoBailao/better-deezer)
+
+### 🦒 SuperDetector20000
+IA qui trouve des bugs dans du code C/C++ (elle en crée aussi beaucoup, c'est cadeau). Projet d'école.  
+[Code](https://github.com/PepitoBailao/SuperDetector20000) | [Site](https://pepitobailao.github.io/SuperDetector20000/)
+
+### 🗑️ Win10-AntiBloatware
+Un script PowerShell pour dégager tous les trucs inutiles de Windows 10/11 (adios, Solitaire).  
+[Code](https://github.com/PepitoBailao/BloatwareDeConWin) | [Download](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
+
+---
+
+## 🍔 Stats GitHub  
+[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PepitoBailao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophées](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Contact 
+[LinkedIn](https://www.linkedin.com/in/ulysse-richard/) | [Portfolio](https://pepitobailao.github.io/portfolio/#)
+
+---
+
+# 👾 About me (ENGLISH)
+
+## Who am I?  
+Lazy, professional sleeper, part-time bug creator, part-time bug hunter. Sometimes my code works. Sometimes it doesn’t. Life’s a gamble.
+
+---
+
+## 🥕 Skills
+- Python, Java, JavaScript, SQL, PowerShell, Linux (when I'm not too lazy)
+- I install stuff and hope for the best
+- Security: I break things for fun (white hat, I swear)
+- Can find the most obscure bugs... and invent new ones
+
+---
+
+## 🦆 Recent Projects
+
+### 💎 CraftMine 
+Discord bot for Minecraft servers. Checks if anyone’s online and lets you know.  
+[Code](https://github.com/PepitoBailao/CraftMine)
+
+### 📱 MessagerieDuSeigneurDeLaTerreDeLouest
+Android messaging app with Firebase. Weird name, but it works.  
+[Code](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [APK](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/releases/tag/apkV1)
+
+### 🧲 Better-Deezer
+Script to make Deezer less annoying.  
+[Code](https://github.com/PepitoBailao/better-deezer)
+
+### 🦒 SuperDetector20000
+AI that finds bugs in C/C++ code (creates some, too—bonus feature). School project.  
+[Code](https://github.com/PepitoBailao/SuperDetector20000) | [Site](https://pepitobailao.github.io/SuperDetector20000/)
+
+### 🗑️ Win10-AntiBloatware
+PowerShell script to get rid of useless Windows 10/11 stuff (bye Solitaire).  
+[Code](https://github.com/PepitoBailao/BloatwareDeConWin) | [Download](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
+
+---
+
+## 🍔 GitHub Stats  
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PepitoBailao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📬 Contact 
+[LinkedIn](https://www.linkedin.com/in/ulysse-richard/) | [Portfolio](https://pepitobailao.github.io/portfolio/#)
 
 ---
