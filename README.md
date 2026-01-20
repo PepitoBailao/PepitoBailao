@@ -27,7 +27,6 @@ Un script PowerShell pour virer toutes les daubes de Windows 10/11. Parce que no
 
 ## Stats GitHub - Ou Comment Je Perds Mon Temps
 ![Mes langages préférés (quand j’ai le courage)](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)
-![Mes trophées (gagnés par accident)](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)
 
 ---
 
