@@ -1,100 +1,39 @@
-# 👋 Salut, moi c'est PepitoBailao
+# PepitoBailao - Le Codeur Qui Fait Ce Qu'il Peut (Quand Il Veut)
 
-## À propos de moi  
-Flemme, je suis un énorme chômeur !  
-Parfois je code, parfois je casse, parfois je dors (souvent). Mes scripts marchent... quand ils veulent.  
-
----
-
-## 🥕 Compétences
-- Python, Java, JavaScript, SQL, PowerShell, Linux (sauf quand j'ai la flemme)
-- J'installe des trucs et ça plante ou ça marche par magie, c'est la surprise
-- Sécurité : je "sécurise" en cassant tout (white hat, promis)
-- J'ai le don de trouver les bugs cachés... mais surtout d'en créer un max
+## Qui c'est ce gars ?
+Un pro de la sieste, un artiste du bug, et un magicien du "ça marchera peut-être". Parfois ça compile, parfois ça explose, mais c'est toujours une aventure.
 
 ---
 
-## 🦆 Projets Récents
+## Projets Qui Ont Survécu à la Corbeille
 
-### 💎 CraftMine 
-Bot Discord pour serveur Minecraft. Il surveille les gens qui squattent et prévient si y'a du monde.  
-[Code](https://github.com/PepitoBailao/CraftMine)
+### CraftMine
+Un bot Discord pour Minecraft qui joue aux espions : il surveille qui traîne sur le serveur et balance des alertes. Parfait pour les paranoïaques du craft.
+→ [Voir le code](https://github.com/PepitoBailao/CraftMine)
 
-### 📱 MessagerieDuSeigneurDeLaTerreDeLouest
-App Android de messagerie avec Firebase. Nom bizarre, mais ça marche nickel.  
-[Code](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [APK](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/releases/tag/apkV1)
+### AgronoQuizz
+Un quiz pour tester vos connaissances en agriculture, parce qu’évidemment, tout le monde rêve de savoir distinguer un blé d’un tournesol à 3h du mat’. Spoiler : c’est moins facile qu’il n’y paraît.
+→ [Voir le code](https://github.com/PepitoBailao?tab=repositories#:~:text=AgronoQuizz)
 
-### 🧲 Better-Deezer
-Un script pour rendre Deezer moins chiant.  
-[Code](https://github.com/PepitoBailao/better-deezer)
+### Portfolio
+Un site où je me vends comme un produit d’occasion : "un peu usé, mais encore fonctionnel". Design sobre, contenu douteux, 100% PepitoBailao™.
+→ [Voir le code](https://github.com/PepitoBailao/portfolio)
 
-### 🦒 SuperDetector20000
-IA qui trouve des bugs dans du code C/C++ (elle en crée aussi beaucoup, c'est cadeau). Projet d'école.  
-[Code](https://github.com/PepitoBailao/SuperDetector20000) | [Site](https://pepitobailao.github.io/SuperDetector20000/)
-
-### 🗑️ Win10-AntiBloatware
-Un script PowerShell pour dégager tous les trucs inutiles de Windows 10/11 (adios, Solitaire).  
-[Code](https://github.com/PepitoBailao/BloatwareDeConWin) | [Download](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
+### Win10-AntiBloatware
+Un script PowerShell pour virer toutes les daubes de Windows 10/11. Parce que non, je ne veux pas de Candy Crush sur mon PC. Merci.
+→ [Voir le code](https://github.com/PepitoBailao/BloatwareDeConWin) | [Télécharger](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
 
 ---
 
-## 🍔 Stats GitHub  
-[![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophées](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
+## Stats GitHub - Ou Comment Je Perds Mon Temps
+![Mes langages préférés (quand j’ai le courage)](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)
+![Mes trophées (gagnés par accident)](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)
 
 ---
 
-## 📬 Contact 
-[LinkedIn](https://www.linkedin.com/in/ulysse-richard/) | [Portfolio](https://pepitobailao.github.io/portfolio/#)
+## Me Contacter (Si Vous Osez)
+- [LinkedIn](https://www.linkedin.com/in/ulysse-richard/) : Pour les offres d’emploi (ou les memes).
+- [Portfolio](https://pepitobailao.github.io/portfolio/#) : Pour voir à quel point je suis "professionnel".
 
 ---
-
-# 👾 About me (ENGLISH)
-
-## Who am I?  
-Lazy, professional sleeper, part-time bug creator, part-time bug hunter. Sometimes my code works. Sometimes it doesn’t. Life’s a gamble.
-
----
-
-## 🥕 Skills
-- Python, Java, JavaScript, SQL, PowerShell, Linux (when I'm not too lazy)
-- I install stuff and hope for the best
-- Security: I break things for fun (white hat, I swear)
-- Can find the most obscure bugs... and invent new ones
-
----
-
-## 🦆 Recent Projects
-
-### 💎 CraftMine 
-Discord bot for Minecraft servers. Checks if anyone’s online and lets you know.  
-[Code](https://github.com/PepitoBailao/CraftMine)
-
-### 📱 MessagerieDuSeigneurDeLaTerreDeLouest
-Android messaging app with Firebase. Weird name, but it works.  
-[Code](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest) | [APK](https://github.com/PepitoBailao/MessagerieDuSeigneurDeLaTerreDeLouest/releases/tag/apkV1)
-
-### 🧲 Better-Deezer
-Script to make Deezer less annoying.  
-[Code](https://github.com/PepitoBailao/better-deezer)
-
-### 🦒 SuperDetector20000
-AI that finds bugs in C/C++ code (creates some, too—bonus feature). School project.  
-[Code](https://github.com/PepitoBailao/SuperDetector20000) | [Site](https://pepitobailao.github.io/SuperDetector20000/)
-
-### 🗑️ Win10-AntiBloatware
-PowerShell script to get rid of useless Windows 10/11 stuff (bye Solitaire).  
-[Code](https://github.com/PepitoBailao/BloatwareDeConWin) | [Download](https://github.com/PepitoBailao/BloatwareDeConWin/releases/tag/V1)
-
----
-
-## 🍔 GitHub Stats  
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PepitoBailao&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophies](https://github-profile-trophy.vercel.app/?username=PepitoBailao&theme=radical&no-frame=true&margin-w=12)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📬 Contact 
-[LinkedIn](https://www.linkedin.com/in/ulysse-richard/) | [Portfolio](https://pepitobailao.github.io/portfolio/#)
-
----
+*PS : Si un projet ne compile pas, c’est une feature. Si ça compile, c’est un miracle. Dans les deux cas, ne me blâmez pas.*
