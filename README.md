@@ -1,22 +1,22 @@
-# PepitoBailao - Le Codeur Qui Fait Ce Qu'il Peut (Quand Il Veut)
+# PepitoBailao
 
 ## Qui c'est ce gars ?
-Un pro de la sieste, un artiste du bug, et un magicien du "ça marchera peut-être". Parfois ça compile, parfois ça explose, mais c'est toujours une aventure.
+Mais wesh c'est moi !
 
 ---
 
-## Projets Qui Ont Survécu à la Corbeille
+## Projets Qui Ont Survécu à la poubelle
 
 ### CraftMine
-Un bot Discord pour Minecraft qui joue aux espions : il surveille qui traîne sur le serveur et balance des alertes. Parfait pour les paranoïaques du craft.
+Un bot Discord pour Minecraft qui joue aux espions : il surveille qui traîne sur le serveur et balance des alertes.
 → [Voir le code](https://github.com/PepitoBailao/CraftMine)
 
 ### AgronoQuizz
-Un quiz pour tester vos connaissances en agriculture, parce qu’évidemment, tout le monde rêve de savoir distinguer un blé d’un tournesol à 3h du mat’. Spoiler : c’est moins facile qu’il n’y paraît.
+Un quiz pour tester vos connaissances en agriculture, parce qu’évidemment, tout le monde rêve de savoir distinguer un blé d’un tournesol à 3h du mat. Spoiler : c’est dure
 → [Voir le code](https://github.com/PepitoBailao?tab=repositories#:~:text=AgronoQuizz)
 
 ### Portfolio
-Un site où je me vends comme un produit d’occasion : "un peu usé, mais encore fonctionnel". Design sobre, contenu douteux, 100% PepitoBailao™.
+Un site où je me vends comme un produit
 → [Voir le code](https://github.com/PepitoBailao/portfolio)
 
 ### Win10-AntiBloatware
